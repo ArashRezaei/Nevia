@@ -1,5 +1,5 @@
 # Nevia
-Forward Modeling of Seismic Wave Propagation
+An open source framework for Forward Modeling of Wave Propagation
 
 Nevia is an easy to use, robust and accurate Python (For Matlab distrubution visit here) package, that mainly developed by Arash Rezaei Nevisi.
 We hope to become the most widely used modeling package in the geophysical world.
